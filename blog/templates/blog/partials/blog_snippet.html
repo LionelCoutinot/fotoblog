@@ -1,0 +1,10 @@
+{% load blog_extras %}
+<div class="post">
+    <a href="{% url 'view_blog' blog.id %}">
+        <p><strong> Billet : {{ blog.title }}</strong></p>
+        <img src="{{ blog.photo.image.url }}" class='img-fluid' style='width:100%;height:250px'>
+    </a>
+        <p><strong>Écrit par {{ blog.contributors.all|join:", " }}</strong> ||
+       {{ blog.date_created|get_posted_at_display }}</p>
+    
+</div>
