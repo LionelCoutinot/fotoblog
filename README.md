@@ -1,11 +1,13 @@
 # fotoblog
 Un <i>fotoblog</i> avec  " <i>admin</i> " et autorisation d'accès selon le rôle ou le status des divers utilisateurs.  Codé avec <i>Django</i> le framework python à partir d'un exercice d'<i>Openclassrooms.com</i> 
 <br>
-Ne pas oublier de créer en ligne de commande dans votre dossier " fotoblog " un envionnement virtuel : <i>python3 -m venv env</i> et de l'activer :  <i>source env/bin/activate</i>
+Ne pas oublier de créer en ligne de commande dans votre dossier " <i>fotoblog</i> " un envionnement virtuel : <i>python3 -m venv env</i> et de l'activer :  <i>source env/bin/activate</i>
 <br>
-Pour lancer l'appli : <i>python3 manage.py runserver</i> 
+Consulter aussi  le fichier <i>requirements.txt</i> pour connaître les packages à installer dans l'environnemment virtuel.
 <br>
-Consulter aussi  le fichier <i>requirements.txt</i> pour connaître les packages à installer
+Pour lancer l'appli : <i>python3 manage.py runserver</i> (allez à l’adresse <i>http://127.0.0.1:8000/</i>  et la page d'accueil  <i>Django</i>  s’affiche)
 <br>
-Ne pas oublier Le fichier <i>Capture-ecran-fotoblog.pdf</i>. Mon <u>superuser</u> ou <u>super administrateur</u> est <b>Pepere19</b>. Il faut entrer ses identifiants pour accéder à la partie " <i>admin</i> " et ainsi modifier ou supprimer les utilisateurs, les photos et les billets du blog et faire une page personnalisée au désir de chacun.
+On peut aller voir Le fichier <i>Capture-ecran-fotoblog.pdf</i> pour avoir une idée du rendu.
+<br>
+Mon " <i>superuser</i> " ou " <i>super administrateur</i> " est <b>Pepere19</b>. Il faut entrer ses identifiants pour accéder à la partie " <i>admin</i> " et ainsi modifier ou supprimer les utilisateurs, les photos et les billets du blog et faire une page personnalisée au désir de chacun.
 
