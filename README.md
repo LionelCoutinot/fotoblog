@@ -9,5 +9,5 @@ Pour lancer l'appli : <i>python3 manage.py runserver</i> (allez à l’adresse <
 <br>
 On peut aller voir Le fichier <i>Capture-ecran-fotoblog.pdf</i> pour avoir une idée du rendu et des fonctionnalités
 <br>
-Mon " <i>superuser</i> " ou " <i>super administrateur</i> " est <b>Pepere19</b>. Il faut entrer ses identifiants pour accéder à la partie " <i>admin</i> " et ainsi modifier ou supprimer les utilisateurs, les photos et les billets du blog et faire une page personnalisée au désir de chacun.
+
 
